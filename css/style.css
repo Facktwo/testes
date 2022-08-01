@@ -200,6 +200,10 @@ header li a {
         width: 100%;
         font-size: 1.1em;
     }
+    
+    .quemsoueu_code pre code {
+        font-size: 95%;
+    }
 
     .capacitacao ul li {
         width: 100px;
